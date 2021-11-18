@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Saydd Salas
+- 👀 I’m interested in Frontend development, travels, german language & culture
+- 🌱 I’m currently coding on React & Angular 
+- 💞️ I’m looking to collaborate on Skillshare community
+- 📫 How to reach me saydd.salas@skillshare.com
